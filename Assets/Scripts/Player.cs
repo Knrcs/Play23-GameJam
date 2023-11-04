@@ -9,7 +9,6 @@ public class Player : MonoBehaviour
     public float moveSpeed;
     public float jumpStrength;
     
-    public Collider2D GroundCollider;
     public bool grounded;
     public Animator animator;
 
