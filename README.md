@@ -1,1 +1,1 @@
-# Play23-GameJam
+# Play23
